@@ -10,7 +10,7 @@ public class ClassRoom {
 
         //  Atributos
         private int id;
-        private int classroomNumber; // Cambiado a classroomNumber para evitar confusión con el nombre de la clase
+        private int classroomNumber; 
         private int floor;
         private boolean status;
         private int capacity;
