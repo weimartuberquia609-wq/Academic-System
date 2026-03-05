@@ -12,7 +12,7 @@ public class Teacher {
         private String name;
         private String email;
         private String specialty;
-        private boolean status; // Cambiado 'estado' a 'status' para seguir el estándar de las otras clases
+        private boolean status; 
 
 
 
