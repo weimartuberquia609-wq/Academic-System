@@ -21,7 +21,7 @@ public class School {
     public School() {
     }
 
-    // Constructor personalizado (por nombre de la escuela)
+    // Constructor personalizado 
     public School(String nameSchool) {
         this.nameSchool = nameSchool;
     }
